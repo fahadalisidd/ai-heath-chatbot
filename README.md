@@ -1,13 +1,29 @@
-# ai-heath-chatbot
-# React + Vite
+# 🩺 AI-Driven Public Health Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A multilingual AI-powered chatbot designed to **educate rural and semi-urban populations** about preventive healthcare, disease symptoms, and vaccination schedules.  
+The chatbot integrates with government health databases and provides **real-time alerts for outbreaks**, accessible via **WhatsApp, SMS, and a web dashboard**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- 🤖 **Chatbot Interface**: Ask health queries directly in the web app.
+- 🌐 **Multilingual Support**: Easily adaptable for local languages.
+- 📲 **WhatsApp & SMS Integration**: Reach users in rural areas.
+- 📊 **Admin Dashboard**: Monitor queries, user stats, and trends.
+- 📡 **Real-Time Alerts**: Push outbreak/vaccination notifications from official health databases.
+- 🎨 **Modern UI**: Responsive, TailwindCSS-based engaging landing page.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+- **Frontend**: [React](https://react.dev/) + [Vite](https://vitejs.dev/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Charts & Visuals**: [Recharts](https://recharts.org/)
+- **Routing**: [React Router](https://reactrouter.com/)
+- **Backend (Future Integration)**: Node.js + Express + MongoDB (or Firebase)
+- **Messaging API**: [Twilio WhatsApp](https://www.twilio.com/whatsapp)
+
+---
+
+## 📂 Project Structure
+
